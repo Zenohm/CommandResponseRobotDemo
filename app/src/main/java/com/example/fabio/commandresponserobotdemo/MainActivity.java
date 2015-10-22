@@ -25,7 +25,7 @@ import java.util.Locale;
  */
 public class MainActivity extends Activity {
 
-    //test
+    //test 2
     // speech input
     private SpeechRecognizer speechRecognizer;
 
